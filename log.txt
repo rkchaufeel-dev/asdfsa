@@ -4,3 +4,4 @@ Update documentation [nn7tI1] line 10.1
 Update documentation [tPMYyw] line 11.2
 Update documentation [tPMYyw] line 11.3
 Fix issue in Y [K6WNAt] line 2.1
+Add feature for X [qutnFT] line 3.3
